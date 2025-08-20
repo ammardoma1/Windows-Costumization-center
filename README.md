@@ -2,7 +2,7 @@ To make the costumized taskbar of Red0 OS you need to download the "Windows-12-D
 
 
 
-HOW TO INSTALL RED0 OS
+HOW TO INSTALL RED0/MINT OS
 
 
 number 1: install windhawk
