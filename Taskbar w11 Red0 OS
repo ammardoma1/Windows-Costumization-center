@@ -48,5 +48,5 @@
   "controlStyles[16].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon",
   "controlStyles[16].styles[0]": "Visibility=Collapsed",
   "controlStyles[17].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Border#BackgroundElement",
-  "controlStyles[17].styles[0]": "Background:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"C:\\StartOrbs\\Windows-12 Blue Dark.png\" />"
+  "controlStyles[17].styles[0]": "Background:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"C:\\Windows-12 Blue Dark.png\" />"
 }
