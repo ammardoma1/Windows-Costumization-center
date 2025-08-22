@@ -1,21 +1,62 @@
-To make the costumized taskbar of Red0 OS you need to download the "Windows-12-Dark-Blue" image, then put it inside windows C (or you can change it its the last line)
+To make the costumized taskbar of the OS you need to download the image of the file (Red0 os has 1, purple0 has 1, mint0 has 1), then put it inside windows C (or you can change it its the last line)
 
 
 
-HOW TO INSTALL OS
+Step 1: Install Windhawk
 
+Download and install Windhawk
+ (a tool that lets you customize Windows UI and behavior).
 
-number 1: install windhawk
+Step 2: Install the Styler Mods
 
-number 2:  install windows 11 notification center styler, windows 11 taskbar  styler, taskbar height and icon size, and windows 11 start menu styler
+Using Windhawk, install the following modules:
 
-number 3: go to taskbar height and icon size, go to advanced and paste its json
+Windows 11 Notification Center Styler
 
-number 4: go to taskbar styler , go to advanced, copy the json then download the image of windows logo, and paste it in windows C
+Windows 11 Taskbar Styler
 
-number 5: go to start menu styler, advanced and paste its json
+Taskbar Height and Icon Size
 
-number 6: go to notification styler, advanced and paste its json
+Windows 11 Start Menu Styler
 
-WARNING
-each styler has its own JSON script, dont mix it up!!!
+Step 3: Configure Taskbar Height & Icon Size
+
+Open Taskbar Height and Icon Size in Windhawk.
+
+Go to Advanced Settings.
+
+Paste the JSON code provided for this module.
+
+Step 4: Configure Taskbar Styler
+
+Open Windows 11 Taskbar Styler in Windhawk.
+
+Go to Advanced Settings.
+
+Copy its JSON code.
+
+Download a Windows logo image and save it in your C:\ drive.
+
+Make sure the JSON code points to the correct file path of the image.
+
+Step 5: Configure Start Menu Styler
+
+Open Windows 11 Start Menu Styler.
+
+Go to Advanced Settings.
+
+Paste the JSON code provided for this module.
+
+Step 6: Configure Notification Center Styler
+
+Open Windows 11 Notification Center Styler.
+
+Go to Advanced Settings.
+
+Paste the JSON code provided for this module.
+
+⚠️ Important Note:
+
+Each Styler module has its own unique JSON script.
+
+Do NOT mix them up — only paste the JSON meant for that specific module.
